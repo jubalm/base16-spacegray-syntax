@@ -1,0 +1,11 @@
+{
+  "name": "base16-spacegray-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Base16 theme best for Spacegrey Eighties",
+  "repository": "https://github.com/jubalm/base16-spacegray-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=0.174.0 <2.0.0"
+  }
+}
